@@ -1,3 +1,3 @@
 <?php
-    hostname;
+print exec('hostname');
 ?>
